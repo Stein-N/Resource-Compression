@@ -8,7 +8,7 @@
 		"xStopho"
 	],
 	"contact": {
-		"Modrinth": "https://modrinth.com/mod/resource-compression",
+		"homepage": "https://modrinth.com/mod/resource-compression",
 		"sources": "https://github.com/Stein-N/Resource-Compression"
 	},
 	"license": "MIT",
