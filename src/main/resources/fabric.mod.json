@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "resource-compression",
+	"version": "${version}",
+	"name": "Resource Compression",
+	"description": "Save space by compressing Vanilla Blocks.",
+	"authors": [
+		"xStopho"
+	],
+	"contact": {
+		"Modrinth": "https://modrinth.com/mod/resource-compression",
+		"sources": "https://github.com/Stein-N/Resource-Compression"
+	},
+	"license": "MIT",
+	"icon": "assets/resource-compression/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.xstopho.resourcecompression.ResourceCompression"
+		],
+		"client": [
+			"me.xstopho.resourcecompression.ResourceCompressionClient"
+		],
+		"fabric-datagen": [
+			"me.xstopho.resourcecompression.ResourceCompressionDataGenerator"
+		]
+	},
+	"mixins": [
+		"resource-compression.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.23",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
