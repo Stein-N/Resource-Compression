@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resource-compression:stripped_cherry_wood_compressed_4"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "resource-compression:stripped_cherry_wood_compressed_3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resource-compression:blue_glazed_terracotta_compressed_8"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "resource-compression:blue_glazed_terracotta_compressed_7"
+  }
+}

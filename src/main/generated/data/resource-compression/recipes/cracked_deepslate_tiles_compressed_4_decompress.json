@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resource-compression:cracked_deepslate_tiles_compressed_4"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "resource-compression:cracked_deepslate_tiles_compressed_3"
+  }
+}

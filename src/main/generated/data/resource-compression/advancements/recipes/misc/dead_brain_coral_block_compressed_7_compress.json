@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dead_brain_coral_block_compressed_7": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "resource-compression:dead_brain_coral_block_compressed_7"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:dead_brain_coral_block_compressed_7_compress"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_dead_brain_coral_block_compressed_7",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:dead_brain_coral_block_compressed_7_compress"
+    ]
+  },
+  "sends_telemetry_event": false
+}

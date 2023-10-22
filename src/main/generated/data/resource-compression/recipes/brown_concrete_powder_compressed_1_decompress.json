@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resource-compression:brown_concrete_powder_compressed_1"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "minecraft:brown_concrete_powder"
+  }
+}

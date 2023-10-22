@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resource-compression:tube_coral_block_compressed_5"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "resource-compression:tube_coral_block_compressed_4"
+  }
+}

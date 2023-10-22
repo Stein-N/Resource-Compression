@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resource-compression:weathered_cut_copper_compressed_6"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "resource-compression:weathered_cut_copper_compressed_5"
+  }
+}

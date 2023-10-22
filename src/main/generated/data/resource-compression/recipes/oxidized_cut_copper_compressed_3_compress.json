@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "resource-compression:oxidized_cut_copper_compressed_3"
+    }
+  },
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "result": {
+    "item": "resource-compression:oxidized_cut_copper_compressed_4"
+  },
+  "show_notification": true
+}

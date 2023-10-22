@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_green_terracotta_compressed_9": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "resource-compression:green_terracotta_compressed_9"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:green_terracotta_compressed_9_decompress"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_green_terracotta_compressed_9",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:green_terracotta_compressed_9_decompress"
+    ]
+  },
+  "sends_telemetry_event": false
+}

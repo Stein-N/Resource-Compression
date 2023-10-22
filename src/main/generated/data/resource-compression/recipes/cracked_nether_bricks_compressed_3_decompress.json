@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resource-compression:cracked_nether_bricks_compressed_3"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "resource-compression:cracked_nether_bricks_compressed_2"
+  }
+}

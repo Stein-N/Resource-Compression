@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_netherite_block_compressed_7": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "resource-compression:netherite_block_compressed_7"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:netherite_block_compressed_7_decompress"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_netherite_block_compressed_7",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:netherite_block_compressed_7_decompress"
+    ]
+  },
+  "sends_telemetry_event": false
+}

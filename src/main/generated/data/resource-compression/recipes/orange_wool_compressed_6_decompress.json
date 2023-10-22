@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resource-compression:orange_wool_compressed_6"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "resource-compression:orange_wool_compressed_5"
+  }
+}

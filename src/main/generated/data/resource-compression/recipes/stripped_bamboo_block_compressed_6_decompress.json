@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resource-compression:stripped_bamboo_block_compressed_6"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "resource-compression:stripped_bamboo_block_compressed_5"
+  }
+}

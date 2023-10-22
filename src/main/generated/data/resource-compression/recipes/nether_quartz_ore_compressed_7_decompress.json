@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resource-compression:nether_quartz_ore_compressed_7"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "resource-compression:nether_quartz_ore_compressed_6"
+  }
+}

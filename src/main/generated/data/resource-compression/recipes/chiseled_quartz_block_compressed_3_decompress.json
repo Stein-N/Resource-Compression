@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resource-compression:chiseled_quartz_block_compressed_3"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "resource-compression:chiseled_quartz_block_compressed_2"
+  }
+}

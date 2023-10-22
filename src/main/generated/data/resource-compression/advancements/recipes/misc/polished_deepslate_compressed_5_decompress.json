@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_polished_deepslate_compressed_5": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "resource-compression:polished_deepslate_compressed_5"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:polished_deepslate_compressed_5_decompress"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_polished_deepslate_compressed_5",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:polished_deepslate_compressed_5_decompress"
+    ]
+  },
+  "sends_telemetry_event": false
+}

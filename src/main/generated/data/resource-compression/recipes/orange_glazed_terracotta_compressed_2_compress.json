@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "resource-compression:orange_glazed_terracotta_compressed_2"
+    }
+  },
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "result": {
+    "item": "resource-compression:orange_glazed_terracotta_compressed_3"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resource-compression:jungle_planks_compressed_9"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "resource-compression:jungle_planks_compressed_8"
+  }
+}

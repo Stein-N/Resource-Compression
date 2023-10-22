@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "resource-compression:crying_obsidian_compressed_9"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "resource-compression:crying_obsidian_compressed_8"
+  }
+}
