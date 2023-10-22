@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "resource-compression:block/snow_block_compressed_8"
+    }
+  }
+}

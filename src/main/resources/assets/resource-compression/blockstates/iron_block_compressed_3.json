@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "resource-compression:block/iron_block_compressed_3"
+    }
+  }
+}

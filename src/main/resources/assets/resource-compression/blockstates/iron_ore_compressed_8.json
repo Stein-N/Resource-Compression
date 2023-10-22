@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "resource-compression:block/iron_ore_compressed_8"
+    }
+  }
+}

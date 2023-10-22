@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "resource-compression:block/blackstone_compressed_5"
+    }
+  }
+}

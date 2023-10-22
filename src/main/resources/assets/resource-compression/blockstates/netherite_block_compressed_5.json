@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "resource-compression:block/netherite_block_compressed_5"
+    }
+  }
+}

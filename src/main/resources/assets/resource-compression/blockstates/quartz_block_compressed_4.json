@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "resource-compression:block/quartz_block_compressed_4"
+    }
+  }
+}

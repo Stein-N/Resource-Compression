@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "resource-compression:block/terracotta_compressed_9"
+    }
+  }
+}

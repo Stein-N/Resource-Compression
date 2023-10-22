@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "resource-compression:block/tuff_compressed_1"
+    }
+  }
+}

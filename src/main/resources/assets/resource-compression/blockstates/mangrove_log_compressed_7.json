@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "resource-compression:block/mangrove_log_compressed_7"
+    }
+  }
+}
