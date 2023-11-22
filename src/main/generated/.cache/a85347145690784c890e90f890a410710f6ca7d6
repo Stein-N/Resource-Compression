@@ -1,7 +1,0 @@
-// 1.20.1	2023-10-21T22:43:10.4689326	Resource Compression/Tags for minecraft:block
-38abf1000c87b8a1dcaa69353dba5cef1ab362cf data\minecraft\tags\blocks\mushroom_grow_block.json
-7a7f120cfcc30d95476eb813f45553caadddacdf data\minecraft\tags\blocks\mineable\hoe.json
-3874cc3afdd9775eaa7abd404b8aff3df9446f02 data\minecraft\tags\blocks\mineable\axe.json
-d2e19b8a5286017e6a1ad38418b77d534cc062b6 data\minecraft\tags\blocks\mineable\shovel.json
-f74db876ad2eef1a2ecc6918987a6f8949160aea data\minecraft\tags\blocks\mineable\pickaxe.json
-205ff43270adae4e5ad7e17e3acc90f83a66c509 data\minecraft\tags\blocks\wool.json
