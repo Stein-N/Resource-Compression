@@ -20,6 +20,9 @@
         ],
         "client": [
             "net.xstopho.resourcecompression.ResourceCompressionClient"
+        ],
+        "fabric-datagen": [
+            "net.xstopho.resourcecompression.ResourceCompressionDataGen"
         ]
     },
     "mixins": [

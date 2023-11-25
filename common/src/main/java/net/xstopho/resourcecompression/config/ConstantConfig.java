@@ -11,7 +11,7 @@ public class ConstantConfig {
     static {
         BUILDER.push("General Settings");
 
-        COMPRESSION_LEVEL = BUILDER.defineInRange("compressionLevel", 1, 1, 9);
+        COMPRESSION_LEVEL = BUILDER.defineInRange("compressionLevel", 9, 1, 9);
 
         BUILDER.pop();
         SPEC = BUILDER.build();
