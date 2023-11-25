@@ -52,7 +52,7 @@ public class ModelProv extends FabricModelProvider {
                             -> createAxisRotated(block, i);
 
                     case OAK_LEAVES, ACACIA_LEAVES, BIRCH_LEAVES, DARK_OAK_LEAVES,
-                            JUNGLE_LEAVES, MANGROVE_LEAVES, SPRUCE_LEAVES
+                            JUNGLE_LEAVES, MANGROVE_LEAVES, SPRUCE_LEAVES, CHERRY_LEAVES
                             -> createLeaves(block, i);
 
                     case MELON, PUMPKIN, DRIED_KELP_BLOCK, POLISHED_BASALT, ANCIENT_DEBRIS

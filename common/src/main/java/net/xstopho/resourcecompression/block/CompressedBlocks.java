@@ -353,6 +353,10 @@ public enum CompressedBlocks {
         return this.toString().toLowerCase() + "_" + level;
     }
 
+    public Block getOldBlock(HashMap<String, Block> map, int level)  {
+        return map.get(getOldName(level));
+    }
+
     public String getOldName(int level) {
         return this.toString().toLowerCase() + "_compressed_" + level;
     }
